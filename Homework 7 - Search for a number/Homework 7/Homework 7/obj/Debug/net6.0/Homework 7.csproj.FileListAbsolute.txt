@@ -1,0 +1,14 @@
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 7 - Search for a number\Homework 7\Homework 7\bin\Debug\net6.0\Homework 7.exe
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 7 - Search for a number\Homework 7\Homework 7\bin\Debug\net6.0\Homework 7.deps.json
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 7 - Search for a number\Homework 7\Homework 7\bin\Debug\net6.0\Homework 7.runtimeconfig.json
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 7 - Search for a number\Homework 7\Homework 7\bin\Debug\net6.0\Homework 7.dll
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 7 - Search for a number\Homework 7\Homework 7\bin\Debug\net6.0\Homework 7.pdb
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 7 - Search for a number\Homework 7\Homework 7\obj\Debug\net6.0\Homework 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 7 - Search for a number\Homework 7\Homework 7\obj\Debug\net6.0\Homework 7.AssemblyInfoInputs.cache
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 7 - Search for a number\Homework 7\Homework 7\obj\Debug\net6.0\Homework 7.AssemblyInfo.cs
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 7 - Search for a number\Homework 7\Homework 7\obj\Debug\net6.0\Homework 7.csproj.CoreCompileInputs.cache
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 7 - Search for a number\Homework 7\Homework 7\obj\Debug\net6.0\Homework 7.dll
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 7 - Search for a number\Homework 7\Homework 7\obj\Debug\net6.0\refint\Homework 7.dll
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 7 - Search for a number\Homework 7\Homework 7\obj\Debug\net6.0\Homework 7.pdb
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 7 - Search for a number\Homework 7\Homework 7\obj\Debug\net6.0\Homework 7.genruntimeconfig.cache
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 7 - Search for a number\Homework 7\Homework 7\obj\Debug\net6.0\ref\Homework 7.dll

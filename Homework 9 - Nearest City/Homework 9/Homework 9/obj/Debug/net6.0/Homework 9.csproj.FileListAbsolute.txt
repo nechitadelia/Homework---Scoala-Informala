@@ -1,0 +1,15 @@
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 9 - Nearest City\Homework 9\Homework 9\bin\Debug\net6.0\Homework 9.exe
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 9 - Nearest City\Homework 9\Homework 9\bin\Debug\net6.0\Homework 9.deps.json
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 9 - Nearest City\Homework 9\Homework 9\bin\Debug\net6.0\Homework 9.runtimeconfig.json
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 9 - Nearest City\Homework 9\Homework 9\bin\Debug\net6.0\Homework 9.dll
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 9 - Nearest City\Homework 9\Homework 9\bin\Debug\net6.0\Homework 9.pdb
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 9 - Nearest City\Homework 9\Homework 9\obj\Debug\net6.0\Homework 9.GeneratedMSBuildEditorConfig.editorconfig
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 9 - Nearest City\Homework 9\Homework 9\obj\Debug\net6.0\Homework 9.AssemblyInfoInputs.cache
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 9 - Nearest City\Homework 9\Homework 9\obj\Debug\net6.0\Homework 9.AssemblyInfo.cs
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 9 - Nearest City\Homework 9\Homework 9\obj\Debug\net6.0\Homework 9.csproj.CoreCompileInputs.cache
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 9 - Nearest City\Homework 9\Homework 9\obj\Debug\net6.0\Homework 9.dll
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 9 - Nearest City\Homework 9\Homework 9\obj\Debug\net6.0\refint\Homework 9.dll
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 9 - Nearest City\Homework 9\Homework 9\obj\Debug\net6.0\Homework 9.pdb
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 9 - Nearest City\Homework 9\Homework 9\obj\Debug\net6.0\Homework 9.genruntimeconfig.cache
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 9 - Nearest City\Homework 9\Homework 9\obj\Debug\net6.0\ref\Homework 9.dll
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 9 - Nearest City\Homework 9\Homework 9\obj\Debug\net6.0\Homework 9.sourcelink.json

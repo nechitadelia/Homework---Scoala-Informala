@@ -31,7 +31,11 @@ namespace Homework_10___Class_Stud
                 }
             }
         }
-        public string Name { get; set; }
+        public string Name 
+        {
+            get { return _name; }
+            set { _name = value; }
+        }
 
         public byte? Mark { get; set; }
         public dynamic Info

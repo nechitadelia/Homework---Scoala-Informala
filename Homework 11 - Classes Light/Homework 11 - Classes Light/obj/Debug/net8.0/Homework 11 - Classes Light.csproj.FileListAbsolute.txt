@@ -1,0 +1,15 @@
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 11 - Classes Light\Homework 11 - Classes Light\bin\Debug\net8.0\Homework 11 - Classes Light.exe
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 11 - Classes Light\Homework 11 - Classes Light\bin\Debug\net8.0\Homework 11 - Classes Light.deps.json
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 11 - Classes Light\Homework 11 - Classes Light\bin\Debug\net8.0\Homework 11 - Classes Light.runtimeconfig.json
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 11 - Classes Light\Homework 11 - Classes Light\bin\Debug\net8.0\Homework 11 - Classes Light.dll
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 11 - Classes Light\Homework 11 - Classes Light\bin\Debug\net8.0\Homework 11 - Classes Light.pdb
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 11 - Classes Light\Homework 11 - Classes Light\obj\Debug\net8.0\Homework 11 - Classes Light.GeneratedMSBuildEditorConfig.editorconfig
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 11 - Classes Light\Homework 11 - Classes Light\obj\Debug\net8.0\Homework 11 - Classes Light.AssemblyInfoInputs.cache
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 11 - Classes Light\Homework 11 - Classes Light\obj\Debug\net8.0\Homework 11 - Classes Light.AssemblyInfo.cs
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 11 - Classes Light\Homework 11 - Classes Light\obj\Debug\net8.0\Homework 11 - Classes Light.csproj.CoreCompileInputs.cache
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 11 - Classes Light\Homework 11 - Classes Light\obj\Debug\net8.0\Homework 11 - Classes Light.sourcelink.json
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 11 - Classes Light\Homework 11 - Classes Light\obj\Debug\net8.0\Homework 11 - Classes Light.dll
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 11 - Classes Light\Homework 11 - Classes Light\obj\Debug\net8.0\refint\Homework 11 - Classes Light.dll
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 11 - Classes Light\Homework 11 - Classes Light\obj\Debug\net8.0\Homework 11 - Classes Light.pdb
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 11 - Classes Light\Homework 11 - Classes Light\obj\Debug\net8.0\Homework 11 - Classes Light.genruntimeconfig.cache
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 11 - Classes Light\Homework 11 - Classes Light\obj\Debug\net8.0\ref\Homework 11 - Classes Light.dll

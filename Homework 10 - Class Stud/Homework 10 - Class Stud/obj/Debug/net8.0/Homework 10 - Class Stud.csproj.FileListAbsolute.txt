@@ -1,0 +1,15 @@
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 10 - Class Stud\Homework 10 - Class Stud\bin\Debug\net8.0\Homework 10 - Class Stud.exe
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 10 - Class Stud\Homework 10 - Class Stud\bin\Debug\net8.0\Homework 10 - Class Stud.deps.json
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 10 - Class Stud\Homework 10 - Class Stud\bin\Debug\net8.0\Homework 10 - Class Stud.runtimeconfig.json
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 10 - Class Stud\Homework 10 - Class Stud\bin\Debug\net8.0\Homework 10 - Class Stud.dll
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 10 - Class Stud\Homework 10 - Class Stud\bin\Debug\net8.0\Homework 10 - Class Stud.pdb
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 10 - Class Stud\Homework 10 - Class Stud\obj\Debug\net8.0\Homework 10 - Class Stud.GeneratedMSBuildEditorConfig.editorconfig
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 10 - Class Stud\Homework 10 - Class Stud\obj\Debug\net8.0\Homework 10 - Class Stud.AssemblyInfoInputs.cache
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 10 - Class Stud\Homework 10 - Class Stud\obj\Debug\net8.0\Homework 10 - Class Stud.AssemblyInfo.cs
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 10 - Class Stud\Homework 10 - Class Stud\obj\Debug\net8.0\Homework 10 - Class Stud.csproj.CoreCompileInputs.cache
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 10 - Class Stud\Homework 10 - Class Stud\obj\Debug\net8.0\Homework 10 - Class Stud.sourcelink.json
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 10 - Class Stud\Homework 10 - Class Stud\obj\Debug\net8.0\Homework 10 - Class Stud.dll
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 10 - Class Stud\Homework 10 - Class Stud\obj\Debug\net8.0\refint\Homework 10 - Class Stud.dll
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 10 - Class Stud\Homework 10 - Class Stud\obj\Debug\net8.0\Homework 10 - Class Stud.pdb
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 10 - Class Stud\Homework 10 - Class Stud\obj\Debug\net8.0\Homework 10 - Class Stud.genruntimeconfig.cache
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 10 - Class Stud\Homework 10 - Class Stud\obj\Debug\net8.0\ref\Homework 10 - Class Stud.dll

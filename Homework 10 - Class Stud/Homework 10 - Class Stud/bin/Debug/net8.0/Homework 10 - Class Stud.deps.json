@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Homework 10 - Class Stud/1.0.0": {
+        "runtime": {
+          "Homework 10 - Class Stud.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework 10 - Class Stud/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

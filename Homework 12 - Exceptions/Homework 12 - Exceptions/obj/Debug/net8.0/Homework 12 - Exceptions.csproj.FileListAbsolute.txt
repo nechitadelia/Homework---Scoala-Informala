@@ -1,0 +1,15 @@
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 12 - Exceptions\Homework 12 - Exceptions\bin\Debug\net8.0\Homework 12 - Exceptions.exe
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 12 - Exceptions\Homework 12 - Exceptions\bin\Debug\net8.0\Homework 12 - Exceptions.deps.json
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 12 - Exceptions\Homework 12 - Exceptions\bin\Debug\net8.0\Homework 12 - Exceptions.runtimeconfig.json
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 12 - Exceptions\Homework 12 - Exceptions\bin\Debug\net8.0\Homework 12 - Exceptions.dll
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 12 - Exceptions\Homework 12 - Exceptions\bin\Debug\net8.0\Homework 12 - Exceptions.pdb
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 12 - Exceptions\Homework 12 - Exceptions\obj\Debug\net8.0\Homework 12 - Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 12 - Exceptions\Homework 12 - Exceptions\obj\Debug\net8.0\Homework 12 - Exceptions.AssemblyInfoInputs.cache
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 12 - Exceptions\Homework 12 - Exceptions\obj\Debug\net8.0\Homework 12 - Exceptions.AssemblyInfo.cs
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 12 - Exceptions\Homework 12 - Exceptions\obj\Debug\net8.0\Homework 12 - Exceptions.csproj.CoreCompileInputs.cache
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 12 - Exceptions\Homework 12 - Exceptions\obj\Debug\net8.0\Homework 12 - Exceptions.sourcelink.json
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 12 - Exceptions\Homework 12 - Exceptions\obj\Debug\net8.0\Homework 12 - Exceptions.dll
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 12 - Exceptions\Homework 12 - Exceptions\obj\Debug\net8.0\refint\Homework 12 - Exceptions.dll
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 12 - Exceptions\Homework 12 - Exceptions\obj\Debug\net8.0\Homework 12 - Exceptions.pdb
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 12 - Exceptions\Homework 12 - Exceptions\obj\Debug\net8.0\Homework 12 - Exceptions.genruntimeconfig.cache
+D:\02 IT Stuff\01 Scoala Informala\01 NET Development\01 Teme\Homework---Scoala-Informala\Homework 12 - Exceptions\Homework 12 - Exceptions\obj\Debug\net8.0\ref\Homework 12 - Exceptions.dll

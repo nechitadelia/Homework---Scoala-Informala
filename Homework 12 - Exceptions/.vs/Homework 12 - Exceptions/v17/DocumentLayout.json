@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\02 IT Stuff\\01 Scoala Informala\\01 NET Development\\01 Teme\\Homework---Scoala-Informala\\Homework 12 - Exceptions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1285E9F6-A033-425A-B869-5B463BAB685B}|Homework 12 - Exceptions\\Homework 12 - Exceptions.csproj|d:\\02 it stuff\\01 scoala informala\\01 net development\\01 teme\\homework---scoala-informala\\homework 12 - exceptions\\homework 12 - exceptions\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1285E9F6-A033-425A-B869-5B463BAB685B}|Homework 12 - Exceptions\\Homework 12 - Exceptions.csproj|solutionrelative:homework 12 - exceptions\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1285E9F6-A033-425A-B869-5B463BAB685B}|Homework 12 - Exceptions\\Homework 12 - Exceptions.csproj|d:\\02 it stuff\\01 scoala informala\\01 net development\\01 teme\\homework---scoala-informala\\homework 12 - exceptions\\homework 12 - exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1285E9F6-A033-425A-B869-5B463BAB685B}|Homework 12 - Exceptions\\Homework 12 - Exceptions.csproj|solutionrelative:homework 12 - exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "D:\\02 IT Stuff\\01 Scoala Informala\\01 NET Development\\01 Teme\\Homework---Scoala-Informala\\Homework 12 - Exceptions\\Homework 12 - Exceptions\\Dog.cs",
+              "RelativeDocumentMoniker": "Homework 12 - Exceptions\\Dog.cs",
+              "ToolTip": "D:\\02 IT Stuff\\01 Scoala Informala\\01 NET Development\\01 Teme\\Homework---Scoala-Informala\\Homework 12 - Exceptions\\Homework 12 - Exceptions\\Dog.cs",
+              "RelativeToolTip": "Homework 12 - Exceptions\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T07:52:29.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\02 IT Stuff\\01 Scoala Informala\\01 NET Development\\01 Teme\\Homework---Scoala-Informala\\Homework 12 - Exceptions\\Homework 12 - Exceptions\\Program.cs",
+              "RelativeDocumentMoniker": "Homework 12 - Exceptions\\Program.cs",
+              "ToolTip": "D:\\02 IT Stuff\\01 Scoala Informala\\01 NET Development\\01 Teme\\Homework---Scoala-Informala\\Homework 12 - Exceptions\\Homework 12 - Exceptions\\Program.cs",
+              "RelativeToolTip": "Homework 12 - Exceptions\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T07:52:02.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
